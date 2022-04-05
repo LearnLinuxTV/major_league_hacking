@@ -1,5 +1,5 @@
  provider "linode" {
-     token = "391c7b45f047310e5fc97811102228ae7adfd5df1f243f148d4d0dd0b07eac1d"
+     token = "api_key_here"
  }
 
  resource "linode_instance" "meow" {
